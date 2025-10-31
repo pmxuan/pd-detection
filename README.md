@@ -1,1 +1,1 @@
-# pd-detection
+Link dataset: https://archive.ics.uci.edu/dataset/301/parkinson+speech+dataset+with+multiple+types+of+sound+recordings
